@@ -1,2 +1,3 @@
-# Object-oriental-programming.-Laboratory-work-4
-Лабораторная работа №4 посвящена построению приложений с использованием графического интерфейса библиотек java.awt и javax.swing.
+# Изобразить в окне гармонические колебания точки вдоль некоторого горизонтального отрезка. Если длина отрезка равна q, то расстояние от точки до левого конца в момент времени t можно считать равным q(1 + cos(wt))/2, где w – некоторая константа. Предусмотреть поля для ввода указанных величин и кнопку для остановки и пуска процесса.
+![image](https://github.com/DubitskiyKirill/Object-oriental-programming.-Laboratory-work-4/assets/125906191/e0e220e7-470e-47da-9e84-551423bf59ff)
+![image](https://github.com/DubitskiyKirill/Object-oriental-programming.-Laboratory-work-4/assets/125906191/3feaa51f-9695-4821-a0d3-a186e4e1820c)
